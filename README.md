@@ -1,4 +1,4 @@
-# Student Performance Analysis
+# Student Performance Prediction
 
 This project analyzes student performance data from two subjects: Mathematics and Portuguese.
 
@@ -15,9 +15,23 @@ This project analyzes student performance data from two subjects: Mathematics an
 - Statistical analysis
 - Visualization
 
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+Install requirements with:
+```bash
+pip install jupyter pandas numpy matplotlib seaborn
+```
+
 ## Usage
 
-1. Ensure you have Python and Jupyter installed
+1. Install the requirements above
 2. Clone this repository
 3. Open `student_performance.ipynb` in Jupyter Notebook/Lab
 4. Run the cells to execute the analysis
